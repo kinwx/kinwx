@@ -11,3 +11,7 @@
 </div><br/>
 
 The three most important attributes in a person's life are: Persistence, focus, and perseverance. With these, you can change the world!
+
+![Estatísticas Jhonatan GitHub](https://github-readme-stats.vercel.app/api?username=AkinoriKoerich&show_icons=true&theme=dracula)
+
+[![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=AkinoriKoerich)](https://github.com/anuraghazra/github-readme-stats)
