@@ -12,6 +12,6 @@
     <dt> Para uma compreensão mais detalhada. </dl>
 </dl>
 
-![Estatísticas kinwx GitHub](https://github-readme-stats.vercel.app/api?username=uelsa&show_icons=true&theme=dracula)
+![Estatísticas kinwx GitHub](https://github-readme-stats.vercel.app/api?username=kinwx&show_icons=true&theme=dracula)
 <br>
 [![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=AkinoriKoerich)](https://github.com/anuraghazra/github-readme-stats)
