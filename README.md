@@ -1,4 +1,4 @@
-## Technologies I use on a daily basis.
+## Tecnologias que uso no meu dia a dia.
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
@@ -7,10 +7,9 @@
 </div><br/>
 
 ## Gráficos: 
-<dl>
-    <dt> Para uma compreensão mais detalhada. </dl>
-</dl>
+**_Para uma compreensão mais detalhada._**
 
-![Estatísticas kinwx GitHub](https://github-readme-stats.vercel.app/api?username=kinwx&show_icons=true&theme=ayu)
-<br>
+![Estatísticas kinwx GitHub](https://github-readme-stats.vercel.app/api?username=kinwx&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinwx&layout=compact)](https://github.com/kinwx/github-readme-stats)
 
