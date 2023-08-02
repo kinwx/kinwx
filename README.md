@@ -6,10 +6,12 @@
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=f5f5f5">
 </div><br/>
 
-## Gráficos: 
-**_Para uma compreensão mais detalhada._**
+## Gráficos 
+**_Status sobre a rede social:_**
 
 ![Estatísticas kinwx GitHub](https://github-readme-stats.vercel.app/api?username=kinwx&show_icons=true&theme=dark)
+
+**_Linguagens mais usadas:_**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinwx&layout=compact)](https://github.com/kinwx/github-readme-stats)
 
