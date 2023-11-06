@@ -25,4 +25,4 @@
  
 ### **🏁 Github Status:**
 
-![Estatísticas kinwx GitHub](https://github-readme-stats.vercel.app/api?username=kinwx&showicons=true&theme=dark)
+![Estatísticas kinwx GitHub](https://github-readme-stats.vercel.app/api?username=kinwx&showicons=true&theme=tokyonight)
