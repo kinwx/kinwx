@@ -28,10 +28,10 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40">
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=f5f5f5" height="40">
     <img align="center" alt="Typescript" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" height="40">
-    <img align="center" alt="React" src="https://img.shields.io/badge/React.js-222?style=for-the-badge&logo=React&logoColor=lightblue" height="40">
-    <img align="center" alt="Vite" src="https://img.shields.io/badge/ViteJS-9532a8?style=for-the-badge&logo=Vite&logoColor=yellow" height="40">
-    <img align="center" alt="NodeJS" src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=Node.js&logoColor=white" height="40">
-    <img align="center" alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-218f10?style=for-the-badge&logo=express&logoColor=white" height="40">
+    <img align="center" alt="React" src="https://img.shields.io/badge/React.JS-222?style=for-the-badge&logo=React&logoColor=lightblue" height="40">
+    <img align="center" alt="Vite" src="https://img.shields.io/badge/Vite.JS-9532a8?style=for-the-badge&logo=Vite&logoColor=yellow" height="40">
+    <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.JS-green?style=for-the-badge&logo=Node.js&logoColor=white" height="40">
+    <img align="center" alt="Express" src="https://img.shields.io/badge/Express-218f10?style=for-the-badge&logo=express&logoColor=white" height="40">
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySql-3566ab?style=for-the-badge&logo=Mysql&logoColor=white" height="40">
 </div><br/>
 
