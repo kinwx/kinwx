@@ -11,17 +11,28 @@
 ✔ &nbsp; **"Posso ser um aprendiz mas honro o compromisso! Sei que todo Mestre algum dia já foi isso."**
 
 #
-### **☀ Tecnologias que uso no meu dia a dia:**
-<code><img height="25" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
+### **☀ Tecnologias que uso no meu dia a dia:**
 <div style="display: inline_block; margin: 0"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=f5f5f5">
     <img align="center" alt="React" src="https://img.shields.io/badge/React.js-222?style=for-the-badge&logo=React&logoColor=lightblue">
+    <img align="center" alt="React" src="https://img.shields.io/badge/ViteJS-9532a8?style=for-the-badge&logo=Vite&logoColor=yellow">
+</div><br/>
+
+### **📚 Tecnologias que tenho conhecimento:**
+<div style="display: inline_block; margin: 0"><br/>
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-252525?style=for-the-badge&logo=Python&logoColor=green" height="40">
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40">
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40">
+    <img align="center" alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=f5f5f5" height="40">
+    <img align="center" alt="Typescript" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" height="40">
+    <img align="center" alt="React" src="https://img.shields.io/badge/React.js-222?style=for-the-badge&logo=React&logoColor=lightblue" height="40">
+    <img align="center" alt="Vite" src="https://img.shields.io/badge/ViteJS-9532a8?style=for-the-badge&logo=Vite&logoColor=yellow" height="40">
+    <img align="center" alt="NodeJS" src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=Node.js&logoColor=white" height="40">
+    <img align="center" alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-218f10?style=for-the-badge&logo=express&logoColor=white" height="40">
+    <img align="center" alt="MySql" src="https://img.shields.io/badge/MySql-3566ab?style=for-the-badge&logo=Mysql&logoColor=white" height="40">
 </div><br/>
 
 ### **🚀 Linguagens mais usadas:**
