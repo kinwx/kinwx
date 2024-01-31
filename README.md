@@ -19,6 +19,7 @@
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=f5f5f5">
     <img align="center" alt="React" src="https://img.shields.io/badge/React.js-222?style=for-the-badge&logo=React&logoColor=lightblue">
     <img align="center" alt="React" src="https://img.shields.io/badge/ViteJS-9532a8?style=for-the-badge&logo=Vite&logoColor=yellow">
+    <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-ccc?style=for-the-badge&logo=Git&logoColor=#fff">
 </div><br/>
 
 ### **📚 Tecnologias que tenho conhecimento:**
@@ -33,6 +34,7 @@
     <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.JS-green?style=for-the-badge&logo=Node.js&logoColor=white" height="40">
     <img align="center" alt="Express" src="https://img.shields.io/badge/Express-218f10?style=for-the-badge&logo=express&logoColor=white" height="40">
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySql-3566ab?style=for-the-badge&logo=Mysql&logoColor=white" height="40">
+    <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-ccc?style=for-the-badge&logo=Git&logoColor=#fff" height="40">
 </div><br/>
 
 ### **🚀 Linguagens mais usadas:**
