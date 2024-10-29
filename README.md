@@ -40,7 +40,10 @@
 
 ### **🚀 Linguagens mais usadas:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinwx&layout=compact)](https://github.com/kinwx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinwx&layout=compact)](https://github.com/kinwx/github-readme-stats) 
+
+### **🎯Melhor projeto:**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kinwx&repo=ecommerceSchoolTest)](https://github.com/kinwx/ecommerceSchoolTest)
  
 ### **🏁 Github Status:**
 
