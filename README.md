@@ -32,6 +32,7 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/React.JS-222?style=for-the-badge&logo=React&logoColor=lightblue" height="40">
     <img align="center" alt="Vite" src="https://img.shields.io/badge/Vite.JS-9532a8?style=for-the-badge&logo=Vite&logoColor=yellow" height="40">
     <img align="center" alt="SASS" src="https://img.shields.io/badge/sass-2b2730?style=for-the-badge&logo=sass&logoColor=cs649a" height="40">
+    <img align="center" alt="Tailwind" src="https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=#fff" height="40">
     <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.JS-green?style=for-the-badge&logo=Node.js&logoColor=white" height="40">
     <img align="center" alt="Express" src="https://img.shields.io/badge/Express-218f10?style=for-the-badge&logo=express&logoColor=white" height="40">
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySql-3566ab?style=for-the-badge&logo=Mysql&logoColor=white" height="40">
