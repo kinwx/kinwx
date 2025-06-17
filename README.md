@@ -14,11 +14,13 @@ Hi there! I'm a front-end developer focused on web and mobile, passionate about 
 ### 💻 Main Stack
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white"/>
+  <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CF6B9D?style=flat-square&logo=sass&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb"/>
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=yellow"/>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-5F1CA6?style=flat-square&logo=angular&logoColor=white"/>
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 </div>
 
